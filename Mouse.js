@@ -2,4 +2,6 @@ function Mouse(name)
 {
 	this.name=name;
 }
-module.export = Mouse;
+
+Mouse.pro
+module.exports = Mouse;
