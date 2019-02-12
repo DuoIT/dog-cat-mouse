@@ -1,0 +1,3 @@
+function New(bug) {
+	// body...
+}
